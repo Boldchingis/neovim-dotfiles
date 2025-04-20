@@ -18,5 +18,3 @@
 │       └── spec2.lua
 └── init.lua
 </pre>
-
-## ⚙️ Configuration
